@@ -1,0 +1,36 @@
+{
+    "Hepsiburada": {
+        "BaseUrl": "https://www.hepsiburada.com/kampanyalar/yurt-disindan-urunler?wt_int=hytop.yurtdisi.kampanya",
+        "Giriş Yap": {
+            "SelectorType": "id",
+            "SelectorName": "login"
+        },
+        "Kullanıcı Adı": {
+            "SelectorType": "id",
+            "SelectorName": "txtUserName"
+        },
+        "Kabul Et": {
+            "SelectorType": "id",
+            "SelectorName": "onetrust-accept-btn-handler"
+        },
+        "Login": {
+            "SelectorType": "id",
+            "SelectorName": "btnLogin"
+        },
+
+        "Sepete Ekle": {
+            "SelectorType": "id",
+            "SelectorName": "addToCart"
+        },
+        "Sepetim": {
+            "SelectorType": "class",
+            "SelectorName": "sf-OldMyAccount-MjrNQp_LLdAaN1g0xvSz sf-OldMyAccount-VcxldoRSjUmlWBLJaTly"
+        },
+        "Ürün Sil": {
+            "SelectorType": "class",
+            "SelectorName": "delete_button_1lHhf"
+        }
+       
+
+    }
+}

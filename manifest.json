@@ -1,0 +1,11 @@
+{
+  "Language": "js",
+  "Parallel": {
+    "plugins": ["gauge-parallel"]
+  },
+  "Plugins": [
+    "html-report"
+
+    
+  ]
+}

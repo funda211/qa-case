@@ -1,0 +1,31 @@
+# Başarısız Login İşlemi
+* "Hepsiburada" projesi ana sayfasına girilir.
+* "Kabul et" değeri olan seçeneğe tıklanır. "Çerez kapatılır."
+* "Giriş Yap" değeri olan seçeneğe tıklanır. ""
+* "1000" milisaniye kadar beklenir. "bir sonraki adıma geçiş"
+* "Giriş Yap" değeri "login" seçeneği için işlem yapılır. "login"
+* "2000" milisaniye kadar beklenir. "bir sonraki adıma geçiş"
+* "Kullanıcı Adı" alanına "yanlıskullanıcı@mail.com" yazılır.
+* "Login" tıklanır. "Giriş Yap butonu"
+* "E-posta adresi veya telefon numarası girmelisiniz." seklinde uyarı verilir.
+#  Kategori seçimi yapılır.
+* "Hepsiburada" projesi ana sayfasına girilir.
+* "2000" milisaniye kadar beklenir. "bir sonraki adıma geçiş"
+* "Kabul et" değeri olan seçeneğe tıklanır. "Çerez kapatılır."
+* sayfada "Pet Shop" üzerinde mouse hareketi yapılır.""
+* "Pet Shop" değeri olan seçeneğe tıklanır. ""
+# Ürün seçimi yapılır.
+* Sayfa kaydırılır.(scroll edilir.)
+* Ürün seçilir ve tıklanır. "İlk sayfadaki 48 ürün random olarak seçilir ve seçilen ürüne tıklanır."
+# Sepete ekleme  ve ürün silme işlemi yapılır.
+* "2000" milisaniye kadar beklenir. "bir sonraki adıma geçiş"
+* "Sepete Ekle" tıklanır. "Sepete ürün atılır."
+* "Ürün sepete eklendi" ekranına gelirse islem basarili olmustur.
+* "1000" milisaniye kadar beklenir. "bir sonraki adıma geçiş"
+* sayfada "Sepetim" üzerinde mouse hareketi yapılır.""
+* "Sepetim" işlemi için tıklanır.
+* "Ürün Sil" işlemi için tıklanır.
+* "Sepetin şu an boş" ekranına gelirse islem basarili olmustur.
+* Sayfa kapatılır.
+
+
